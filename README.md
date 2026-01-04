@@ -90,7 +90,7 @@ I'm a passionate developer with a keen interest in creating **interactive web ex
 
 ## 🎯 Current Focus
 
-```javascript
+
 const ankit = {
     currentRole: "Computer Science Student",
     learning: ["MERN Stack", "Gesture Recognition", "UI/UX Design"],
