@@ -117,24 +117,3 @@ I'm a passionate developer with a keen interest in creating **interactive web ex
 <!-- About Me Section with Animated GIF -->
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> About Me
-
-
-const ankit = {
-    pronouns: "He" | "Him",
-    code: ["JavaScript", "HTML", "CSS"],
-    askMeAbout: ["web dev", "tech", "MERN", "gestures"],
-    technologies: {
-        frontEnd: {
-            js: ["React"],
-            css: ["Bootstrap", "Tailwind"]
-        },
-        backEnd: {
-            js: ["Node", "Express"],
-        },
-        databases: ["MongoDB"],
-        misc: ["Firebase", "Git", "GitHub Actions"]
-    },
-    currentFocus: "Building Gesture-Based Interfaces 👋",
-    funFact: "There are 10 types of people: those who understand binary, and those who don't"
-};
