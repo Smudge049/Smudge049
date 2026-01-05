@@ -90,13 +90,7 @@ I'm a passionate developer with a keen interest in creating **interactive web ex
 
 ## 🎯 Current Focus
 
-const ankit = {
-    currentRole: "Computer Science Student",
-    learning: ["MERN Stack", "Gesture Recognition", "UI/UX Design"],
-    interests: ["Web Development", "Interactive Interfaces", "Problem Solving"],
-    lookingFor: "Opportunities to collaborate on innovative projects",
-    funFact: "I believe the best code is the code that makes life easier"
-};
+
 
 <div align="center">
   
