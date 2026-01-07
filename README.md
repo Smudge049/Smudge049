@@ -72,23 +72,9 @@ I'm a passionate developer with a keen interest in creating **interactive web ex
 > 
 > `MongoDB` `Express` `React` `Node.js`
 
----
 
-## 📊 GitHub Statistics
 
-<div align="center">
 
-![Ankit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Smudge049&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Smudge049&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Smudge049&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
-## 🎯 Current Focus
 
 
 
@@ -109,11 +95,4 @@ I'm a passionate developer with a keen interest in creating **interactive web ex
 
 <!-- Profile Views Counter -->
 <img src="https://komarev.com/ghpvc/?username=Smudge049&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
-
-</div>
-
----
-
-<!-- About Me Section with Animated GIF -->
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
