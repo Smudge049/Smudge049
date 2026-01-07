@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Ankit Sapkota
 
-###🎓 Computer Science Student 
+🎓 Computer Science Student 
 
 [![GitHub followers](https://img.shields.io/github/followers/Smudge049?label=Followers&style=social)](https://github.com/Smudge049)
 [![GitHub stars](https://img.shields.io/github/stars/Smudge049?label=Stars&style=social)](https://github.com/Smudge049)
@@ -15,11 +15,10 @@
 
 I'm a passionate developer with a keen interest in creating **interactive web experiences** and exploring cutting-edge technologies. Currently pursuing my studies while building practical projects that bridge the gap between innovation and functionality.
 
-- 🔭 Currently working on **interactive gesture-based web applications**
+- 🔭 Currently working on **C2C Marketplace Platform for University Students**
 - 🌱 Learning and mastering the **MERN Stack** (MongoDB, Express, React, Node.js)
-- 💡 Interested in **Human-Computer Interaction** and **Web Development**
+- 💡 Interested in **Human-Computer Interaction**
 - 🎯 Goal: Building intuitive and accessible digital experiences
-- ⚡ Fun fact: I love turning complex ideas into simple, elegant solutions
 
 ---
 
