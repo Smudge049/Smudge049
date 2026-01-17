@@ -55,7 +55,7 @@ I'm a passionate developer with a keen interest in creating **interactive web ex
 > 
 > A comprehensive university finder application built with JavaScript, helping students discover their ideal educational institutions.
 > 
-> `JavaScript` `Web Development` `Education Tech`
+> `JavaScript` `Web Development` `Education Tech` 
 
 ### 👋 [Gesture](https://github.com/Smudge049/Gesture)
 > **Interactive Gesture-Based Web Interface**
