@@ -85,7 +85,7 @@ I'm a passionate developer with a keen interest in creating **interactive web ex
 <!-- Animated Typing SVG -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=100&lines=Full-Stack+Developer+%F0%9F%92%BB;MERN+Stack+Enthusiast+%F0%9F%9A%80;Gesture+Tech+Explorer+%F0%9F%91%8B;Building+The+Future+%E2%9C%A8" alt="Typing SVG" /></a>
 
-<!-- Animated Badge Group -->
+<!-- Animated Badge  -->
 <p align="center">
   <img src="https://img.shields.io/badge/Focus-Web%20Development-brightgreen?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=101010" alt="Focus"/>
   <img src="https://img.shields.io/badge/Lives-Nepal-success?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=101010" alt="Location"/>
