@@ -53,7 +53,7 @@ I'm a passionate developer with a keen interest in creating **interactive web ex
 ### 🎓 [Uni-Find](https://github.com/Smudge049/Uni-Find)
 > **Second Year University Project**
 > 
-> A comprehensive university finder application built with JavaScript, helping students discover their ideal educational institutions.
+> A comprehensive university marketplace where students can unfy by sharing and finding educational tools and other requirements.
 > 
 > `JavaScript` `Web Development` `Education Tech` 
 
