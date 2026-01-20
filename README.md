@@ -60,7 +60,7 @@ I'm a passionate developer with a keen interest in creating **interactive web ex
 ### 👋 [Gesture](https://github.com/Smudge049/Gesture)
 > **Interactive Gesture-Based Web Interface**
 > 
-> An experimental project exploring hand gesture recognition to create intuitive web interactions. Pushing the boundaries of human-computer interaction!
+> An experimental project exploring hand gesture recognition to create intuitive web interactions. 
 > 
 > `HTML` `JavaScript` `Gesture Recognition` `Interactive UI`
 
