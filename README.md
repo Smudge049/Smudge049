@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Ankit Sapkota
+# 👋 Hi, I am Ankit Sapkota
 
 🎓 Computer Science Student 
 
