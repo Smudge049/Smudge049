@@ -17,8 +17,7 @@ I'm a passionate developer with a keen interest in creating **interactive web ex
 
 - 🔭 Currently working on **C2C Marketplace Platform for University Students**
 - 🌱 Learning and mastering the **MERN Stack** (MongoDB, Express, React, Node.js)
-- 💡 Interested in **Human-Computer Interaction**
-- 🎯 Goal: Building intuitive and accessible digital experiences
+- 🎯 Goal: Building accessible digital experiences
 
 ---
 
