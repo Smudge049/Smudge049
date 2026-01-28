@@ -2,7 +2,7 @@
 
 # 👋 Hi, I am Ankit Sapkota
 
-🎓 Computer Science Student 
+🎓 Computer Science Student at Kathmandu University 
 
 [![GitHub followers](https://img.shields.io/github/followers/Smudge049?label=Followers&style=social)](https://github.com/Smudge049)
 [![GitHub stars](https://img.shields.io/github/stars/Smudge049?label=Stars&style=social)](https://github.com/Smudge049)
